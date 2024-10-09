@@ -1,0 +1,72 @@
+{
+    "location": "Dallas, TX",
+    "Tonight": {
+        "high": "N/A",
+        "low": "Low: 61 °F",
+        "description": "Clear",
+        "detailed": "Clear, with a low around 61. East wind around 5 mph becoming calm."
+    },
+    "Wednesday": {
+        "high": "High: 88 °F",
+        "low": "N/A",
+        "description": "Sunny",
+        "detailed": "Sunny, with a high near 88. Calm wind becoming southeast around 5 mph."
+    },
+    "Wednesday Night": {
+        "high": "N/A",
+        "low": "Low: 63 °F",
+        "description": "Clear",
+        "detailed": "Clear, with a low around 63. Southeast wind around 5 mph."
+    },
+    "Thursday": {
+        "high": "High: 90 °F",
+        "low": "N/A",
+        "description": "Sunny",
+        "detailed": "Sunny, with a high near 90. Calm wind becoming southeast around 5 mph in the morning."
+    },
+    "Thursday Night": {
+        "high": "N/A",
+        "low": "Low: 64 °F",
+        "description": "Mostly Clear",
+        "detailed": "Mostly clear, with a low around 64. Southeast wind around 5 mph."
+    },
+    "Friday": {
+        "high": "High: 92 °F",
+        "low": "N/A",
+        "description": "Sunny",
+        "detailed": "Sunny, with a high near 92. South wind 5 to 10 mph."
+    },
+    "Friday Night": {
+        "high": "N/A",
+        "low": "Low: 66 °F",
+        "description": "Clear",
+        "detailed": "Clear, with a low around 66. South southeast wind around 5 mph."
+    },
+    "Saturday": {
+        "high": "High: 94 °F",
+        "low": "N/A",
+        "description": "Sunny",
+        "detailed": "Sunny, with a high near 94. South wind 5 to 10 mph, with gusts as high as 20 mph."
+    },
+    "Saturday Night": {
+        "high": "N/A",
+        "low": "Low: 68 °F",
+        "description": "Clear",
+        "detailed": "Clear, with a low around 68. South wind 5 to 10 mph."
+    },
+    "Sunday Night": {
+        "detailed": "Clear, with a low around 62."
+    },
+    "Monday Night": {
+        "detailed": "Mostly clear, with a low around 56."
+    },
+    "Sunday": {
+        "detailed": "Sunny, with a high near 94."
+    },
+    "Columbus Day": {
+        "detailed": "Sunny, with a high near 84."
+    },
+    "Tuesday": {
+        "detailed": "Sunny, with a high near 77."
+    }
+}

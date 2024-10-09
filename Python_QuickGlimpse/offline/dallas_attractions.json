@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Klyde Warren Park",
+        "time_to_spend": "1 to 2 hours",
+        "type": "Free, Parks and Gardens, Sightseeing"
+    },
+    {
+        "title": "Dallas Museum of Art",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Museums, Free"
+    },
+    {
+        "title": "The Sixth Floor Museum and Dealey Plaza",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Museums, Sightseeing"
+    },
+    {
+        "title": "Reunion Tower",
+        "time_to_spend": "1 to 2 hours",
+        "type": "Sightseeing"
+    },
+    {
+        "title": "Dallas Arts District",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Free, Neighborhood/Area, Sightseeing"
+    },
+    {
+        "title": "Perot Museum of Nature and Science",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Museums"
+    },
+    {
+        "title": "Dallas Arboretum and Botanical Garden",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Parks and Gardens"
+    },
+    {
+        "title": "White Rock Lake and Park",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Free, Parks and Gardens, Recreation"
+    },
+    {
+        "title": "Dallas Farmers Market",
+        "time_to_spend": "1 to 2 hours",
+        "type": "Free, Shopping"
+    },
+    {
+        "title": "Bishop Arts District",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Free, Neighborhood/Area, Sightseeing"
+    },
+    {
+        "title": "Dallas World Aquarium",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Zoos and Aquariums"
+    },
+    {
+        "title": "Nasher Sculpture Center",
+        "time_to_spend": "1 to 2 hours",
+        "type": "Museums"
+    },
+    {
+        "title": "African American Museum of Dallas",
+        "time_to_spend": "2 hours to Half Day",
+        "type": "Museums, Free"
+    }
+]
